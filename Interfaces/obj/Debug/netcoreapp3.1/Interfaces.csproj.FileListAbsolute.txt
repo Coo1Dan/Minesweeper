@@ -1,0 +1,13 @@
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

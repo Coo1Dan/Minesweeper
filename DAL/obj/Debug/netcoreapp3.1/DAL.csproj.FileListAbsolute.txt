@@ -1,0 +1,15 @@
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\ИНСТИТУТ\Сапер Власов\Minesweeper\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
