@@ -20,7 +20,7 @@ namespace ORMDAL
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=DESKTOP-HP76AG0\\SQLEXPRESS;Initial Catalog=DBPrikol;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-MRUOR9L\\SQLEXPRESS; Initial Catalog = Minesweeper; Integrated Security = True");
             }
         }
 
@@ -33,7 +33,7 @@ namespace ORMDAL
                 entity.HasOne(d => d.User)
                     .WithMany(p => p.Game)
                     .HasForeignKey(d => d.UserID)
-                    .HasConstraintName("FK_Games_UserId");
+                    .HasConstraintName("FK_Games_UserID");
             });
 
             modelBuilder.Entity<User>(entity =>
